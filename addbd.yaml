@@ -20,7 +20,7 @@
         validate_certs: no
         tenant: "sm-Jenkins-Ansible"
         vrf_name: "SMVRF1"
-        bd: "newBD15"
+        bd: "newBD18"
         state: present
         use_proxy: no
       delegate_to: localhost
